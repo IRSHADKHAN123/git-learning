@@ -1,1 +1,1 @@
-utility fuction for version four.
+utility fuction for version four to implement the program..
